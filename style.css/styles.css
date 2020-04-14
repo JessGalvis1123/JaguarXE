@@ -30,8 +30,8 @@ body{
 
 
  .texto {
-        opacity: 0.7;
-        background-color: black;
+        
+        background: rgba(0, 0, 0, 0.7);
         top: 45px;
         left: 60px;
         right: 40px;
@@ -64,6 +64,27 @@ body{
      text-decoration-line: none;
      
  }
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
  
  

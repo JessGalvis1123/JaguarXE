@@ -5,8 +5,6 @@ body{
     font-family: 'Roboto', sans-serif;
     background-image: url('https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg');
     background-repeat: no-repeat;
-    
-    /*background-position: center;*/
     padding: 50px;
     height: 768px;
     width: 100%;
@@ -18,13 +16,13 @@ body{
 
 @media (min-width: 768px){
         body{
-            background-size: 100% 100%;
+            background-size: cover;
         }
 }
 
 @media (min-width: 768px){
    .texto{
-        width: 500px;
+        width: 600px;
     }
 }
 
@@ -32,9 +30,9 @@ body{
  .texto {
         
         background: rgba(0, 0, 0, 0.7);
-        top: 45px;
-        left: 60px;
-        right: 40px;
+        top: 150px;
+        left: 100px;
+        right: 80px;
         border-radius: 5px;
         padding: 10px;
         height: 250px;
@@ -52,39 +50,18 @@ body{
 
 #button_1{
 
-     left: 70px;
+     left: 120px;
      background-color: #DB3030;
      opacity: 1.0;
      color:white;
      border: none;
      padding: 7px;
      border-radius: 5px;
-     top: 250px;
+     top: 350px;
      position: fixed;
      text-decoration-line: none;
      
  }
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  
  
  
